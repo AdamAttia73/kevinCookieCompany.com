@@ -1,0 +1,3 @@
+Ada.txt
+# ignore all .txt files
+*.txt
